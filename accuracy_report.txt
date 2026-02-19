@@ -1,0 +1,145 @@
+1) Prompt
+
+“Best tech influencer in Patna under ₹3L budget”
+
+LLM Response
+
+Strategic Recommendation: Patna Tech World in Patna, Bihar
+Engagement and reach optimized for mid-budget tech campaigns.
+
+Accuracy Score: 9.5 / 10
+
+ Correct city
+ Correct category
+ Budget condition satisfied
+ Engagement not explicitly validated
+
+2) Prompt
+“Top food YouTuber in Kolkata”
+
+LLM Response
+
+Strategic Recommendation: Kolkata Foodies in Kolkata, West Bengal
+
+Accuracy Score: 10 / 10
+
+ Exact match
+ Highest reach food creator in Kolkata
+ Clean retrieval
+
+3) Prompt
+
+“Affordable fitness influencer in Gurgaon”
+
+LLM Response
+
+Strategic Recommendation: Gurgaon Fitness Club in Gurgaon, Haryana
+
+Accuracy Score: 9 / 10
+
+ Correct influencer
+ Fitness niche
+ “Affordable” not numerically reasoned
+
+4) Prompt
+
+“Education or startup creator in Gurgaon”
+
+LLM Response
+
+Strategic Recommendation: Gurgaon Startup Talks – Education & Business niche
+
+Accuracy Score: 10 / 10
+
+ Category matches Education|Business
+ Correct city
+ Correct intent inference
+
+5) Prompt
+
+“Hindi tech influencer in Bihar”
+
+LLM Response
+
+Strategic Recommendation: Patna Tech World – Hindi Tech Content
+
+Accuracy Score: 10 / 10
+
+ Language match
+ State match
+ Category match
+
+6)  Prompt
+
+“High reach food influencer in East India”
+
+LLM Response
+
+Strategic Recommendation: Kolkata Foodies – dominant reach in East India
+
+Accuracy Score: 8.5 / 10
+
+ Regionally correct
+ High followers
+ “East India” inferred, not explicit in dataset
+
+7)  Prompt
+
+“Low budget tech creator for brand collab”
+
+LLM Response
+
+Strategic Recommendation: Kolkata Tech Review
+
+Accuracy Score: 7.5 / 10
+
+ Tech niche
+ “Low budget” not calculated
+ City not filtered
+
+8️⃣ Prompt
+
+“Bengali speaking food influencer”
+
+LLM Response
+
+Strategic Recommendation: Kolkata Foodies
+
+Accuracy Score: 9.8 / 10
+
+ Language match
+ Category match
+ Region match
+
+9️⃣ Prompt
+
+“YouTube influencer for fitness campaign”
+
+LLM Response
+
+Strategic Recommendation: Gurgaon Fitness Club
+
+Accuracy Score: 8 / 10
+
+ Platform correct
+ Category correct
+ City bias due to keyword density
+
+10) Prompt
+
+“Best influencer under 200k followers”
+
+LLM Response
+
+Consulting top performers… No exact match found.
+
+Accuracy Score: 6 / 10
+
+ Dataset does contain influencers near 200k
+ Numeric condition not parsed
+ Missed opportunity
+
+OVERALL LLM ACCURACY SCORE
+ 8.6 / 10
+
+(Strong retrieval, weak reasoning)
